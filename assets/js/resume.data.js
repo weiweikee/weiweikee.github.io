@@ -35,9 +35,9 @@ window.RESUME = {
     {
       id: 'unified',
       label: 'Everything',
-      as: 'Senior Data Professional',
-      hero: 'Senior Data Professional',
-      summary: 'Senior data professional with 7+ years across enterprise analytics, data engineering, and academic research — currently building executive technology-risk metrics at Capital One on Snowflake, Databricks, and QuickSight. Expert in SQL and Python, embedding self-service automated evaluation into developer pipelines. Published researcher, comfortable moving between statistical rigour, production data engineering, and senior-leadership storytelling.'
+      as: 'Full-Stack Data Professional',
+      hero: 'Full-Stack Data Professional',
+      summary: 'Full-stack data professional with 7+ years spanning the entire data lifecycle — pipelines, transformation, BI, and statistics/ML — currently building executive technology-risk metrics at Capital One on Snowflake, Databricks, and QuickSight. Expert in SQL and Python, embedding self-service automated evaluation into developer pipelines. Published researcher, comfortable moving between statistical rigour, production data engineering, and senior-leadership storytelling.'
     },
     {
       id: 'data-analyst',
